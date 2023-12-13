@@ -1,0 +1,1 @@
+# capturingSS-VideosInCypress
